@@ -1,0 +1,3 @@
+# Use Pylint defaults except for the explicit setting below.
+[FORMAT]
+max-line-length=100
